@@ -1,1 +1,2 @@
-# Snake-Using-C-
+# Snake Game Using C Language:
+Welcome to Snake Game in C! This project showcases a classic Snake game implemented in the C programming language. The game is designed for terminal-based play and offers an entertaining and challenging experience. Players control a snake that grows in length as it consumes food while avoiding collisions with the boundaries and itself. This project is a testament to the simplicity and elegance of C, demonstrating how fundamental programming concepts and data structures come together to create an enjoyable gaming experience. Feel free to explore, contribute, or simply enjoy the game. Have fun and happy coding!
